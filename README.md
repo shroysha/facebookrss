@@ -1,5 +1,5 @@
 # facebookrss
-> see code: [https://github.com/shroysha/shroysha.github.io/tree/master/archive/facebookrss](https://github.com/shroysha/shroysha.github.io/tree/master/archive/facebookrss)
+> see code: [https://github.com/shroysha/facebookrss](https://github.com/shroysha/facebookrss)
 
 ## Description
 null
